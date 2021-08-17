@@ -1,6 +1,6 @@
 # flutter_app
 
-A new Flutter application.
+Travel application, made in flutter. With connection to firebase for data management
 
 ## Getting Started
 
